@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-style: italic;
+}
+.speedometer-img {
+  height: 40vh;
+  width: 40vw;
+}
+.sub-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 300px;
+}
+.paragraph {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
+.accButton {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-color: #0b69ff;
+  border-radius: 8px;
+  cursor: pointer;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.appButton {
+  border-color: #94a3b8;
+  background-color: transparent;
+  color: #94a3b8;
+  font-family: 'Roboto';
+  border-radius: 8px;
+  cursor: pointer;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 10px;
+  margin-top: 30px;
+}
